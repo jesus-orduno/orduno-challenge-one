@@ -35,7 +35,7 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
-/* Navigation Menu */
+/* Navigation Menu Styling*/
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -53,7 +53,7 @@ header nav ul li {
   margin-left: 25px;
 }
 
-/* Main Content */
+/* Main Content with Consolidation to Services Styling */
 div.hero {
   margin-bottom: 25px;
 }
@@ -98,7 +98,7 @@ section.content article.content h2 {
   font-size: 36px;
 }
 
-/* Aside Content*/
+/* Aside Content with Consolidation to Benefits Styling */
 aside.benefits {
   margin-right: 20px;
   padding: 20px;
