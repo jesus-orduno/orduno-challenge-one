@@ -28,3 +28,10 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+## Screenshot
+
+![horiseon-refactor-challenge-screenshot-orduno](https://user-images.githubusercontent.com/107074271/175841351-dc122fb5-c6c4-4b3f-a460-c9686d585678.png)
+
+## Link to Deployed Application
+
+[Page published here](https://jesus-orduno.github.io/orduno-challenge-one/)
